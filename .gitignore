@@ -1,0 +1,15 @@
+# La chiave e le installazioni restano sul tuo computer
+.env
+.venv/
+__pycache__/
+strumenti/
+motore/remotion/node_modules/
+motore/remotion/public/
+motore/remotion/out/
+
+# I tuoi video non finiscono qui dentro
+girati/*/
+*.mov
+*.mp4
+*.wav
+!esempio/*.mp4
