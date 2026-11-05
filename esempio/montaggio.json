@@ -1,0 +1,56 @@
+{
+  "titolo": "Sbagliamo in pubblico",
+  "slug": "esempio",
+  "copertina": {
+    "occhiello": "ESEMPIO",
+    "titolo": [
+      [
+        {
+          "testo": "Sbagliamo"
+        }
+      ],
+      [
+        {
+          "testo": "in pubblico.",
+          "accento": true
+        }
+      ]
+    ]
+  },
+  "accenti": [
+    "manifesto",
+    "davvero",
+    "provato"
+  ],
+  "correzioni": [],
+  "blocchi": [
+    {
+      "id": "b1",
+      "tipo": "volto",
+      "zoom": "medio",
+      "inizio": 2.04,
+      "fine": 7.96
+    },
+    {
+      "id": "b2",
+      "tipo": "volto",
+      "zoom": "largo",
+      "inizio": 11.18,
+      "fine": 17.4
+    }
+  ],
+  "effetti": [
+    {
+      "nome": "e1",
+      "blocco": "b2",
+      "sale": {
+        "testo": "MALE",
+        "parola": "male."
+      }
+    }
+  ],
+  "musica": {
+    "attiva": true,
+    "bpm": 100
+  }
+}

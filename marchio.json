@@ -1,0 +1,10 @@
+{
+  "accento": "#FFC83D",
+  "testo_su_accento": "#141414",
+  "testo": "#F5F5F7",
+  "testo_spento": "#A8A8B1",
+  "fondo": "#000000",
+  "pannello": "#0B0B0D",
+  "font": "Instrument Sans",
+  "font_etichette": "IBM Plex Mono"
+}

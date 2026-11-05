@@ -1,0 +1,221 @@
+{
+"words": [
+{
+"text": "Nel",
+"start": 2.04,
+"end": 2.18,
+"type": "word",
+"logprob": -0.0002960720448754728
+},
+{
+"text": "manifesto",
+"start": 2.2,
+"end": 2.64,
+"type": "word",
+"logprob": -0.0008135108510032296
+},
+{
+"text": "del",
+"start": 2.68,
+"end": 2.78,
+"type": "word",
+"logprob": -7.152555099310121e-07
+},
+{
+"text": "gruppo",
+"start": 2.84,
+"end": 3.16,
+"type": "word",
+"logprob": -0.00025733973598107696
+},
+{
+"text": "c'è",
+"start": 3.42,
+"end": 3.5,
+"type": "word",
+"logprob": -3.417316861487052e-06
+},
+{
+"text": "scritto:",
+"start": 3.54,
+"end": 3.94,
+"type": "word",
+"logprob": -0.0001220785143232206
+},
+{
+"text": "\"Sbagliamo",
+"start": 4.12,
+"end": 4.78,
+"type": "word",
+"logprob": -0.03693700062212883
+},
+{
+"text": "in",
+"start": 4.84,
+"end": 4.96,
+"type": "word",
+"logprob": -9.536738616588991e-07
+},
+{
+"text": "pubblico\".",
+"start": 5.0,
+"end": 5.42,
+"type": "word",
+"logprob": -0.006970623575034552
+},
+{
+"text": "È",
+"start": 6.0,
+"end": 6.04,
+"type": "word",
+"logprob": -0.00045980370487086475
+},
+{
+"text": "l'unica",
+"start": 6.14,
+"end": 6.48,
+"type": "word",
+"logprob": -0.0003904910658099376
+},
+{
+"text": "riga",
+"start": 6.54,
+"end": 6.82,
+"type": "word",
+"logprob": -1.6391223880418693e-06
+},
+{
+"text": "che",
+"start": 7.06,
+"end": 7.18,
+"type": "word",
+"logprob": 0.0
+},
+{
+"text": "conta",
+"start": 7.22,
+"end": 7.48,
+"type": "word",
+"logprob": -5.602679812000133e-05
+},
+{
+"text": "davvero.",
+"start": 7.54,
+"end": 7.96,
+"type": "word",
+"logprob": -4.291524077437714e-06
+},
+{
+"text": "Non",
+"start": 11.18,
+"end": 11.3,
+"type": "word",
+"logprob": -5.364403477869928e-06
+},
+{
+"text": "serve",
+"start": 11.34,
+"end": 11.6,
+"type": "word",
+"logprob": -1.3112935448589269e-05
+},
+{
+"text": "essere",
+"start": 11.64,
+"end": 11.88,
+"type": "word",
+"logprob": -1.9073468138230965e-06
+},
+{
+"text": "il",
+"start": 11.9,
+"end": 12.0,
+"type": "word",
+"logprob": 0.0
+},
+{
+"text": "più",
+"start": 12.02,
+"end": 12.14,
+"type": "word",
+"logprob": 0.0
+},
+{
+"text": "bravo",
+"start": 12.16,
+"end": 12.46,
+"type": "word",
+"logprob": -3.015949550899677e-05
+},
+{
+"text": "per",
+"start": 12.5,
+"end": 12.58,
+"type": "word",
+"logprob": 0.0
+},
+{
+"text": "starci",
+"start": 12.62,
+"end": 12.98,
+"type": "word",
+"logprob": -8.940639058134062e-06
+},
+{
+"text": "dentro.",
+"start": 13.02,
+"end": 13.38,
+"type": "word",
+"logprob": -0.0003129747758846081
+},
+{
+"text": "Serve",
+"start": 13.8,
+"end": 14.0,
+"type": "word",
+"logprob": -0.00013052565918769687
+},
+{
+"text": "aver",
+"start": 14.04,
+"end": 14.34,
+"type": "word",
+"logprob": -0.00031156453769654036
+},
+{
+"text": "provato",
+"start": 14.38,
+"end": 14.8,
+"type": "word",
+"logprob": -3.067004255236887e-05
+},
+{
+"text": "qualcosa",
+"start": 14.94,
+"end": 15.42,
+"type": "word",
+"logprob": -2.145764938177308e-06
+},
+{
+"text": "davvero,",
+"start": 15.7,
+"end": 16.12,
+"type": "word",
+"logprob": -0.0017162714575533755
+},
+{
+"text": "anche",
+"start": 16.88,
+"end": 17.1,
+"type": "word",
+"logprob": -5.245195097813848e-06
+},
+{
+"text": "male.",
+"start": 17.14,
+"end": 17.4,
+"type": "word",
+"logprob": -2.5272332550230204e-06
+}
+]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "montaggio-grafiche",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sottotitoli, coperture e copertina del kit, rese con Remotion",
+  "scripts": {
+    "studio": "remotion studio src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.528",
+    "@remotion/layout-utils": "4.0.528",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.528"
+  }
+}
